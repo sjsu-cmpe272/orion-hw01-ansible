@@ -1,0 +1,5 @@
+[cisco_centos1] #This is a group definition
+CentOS1 ansible_host=root@centos1.dcloud.cisco.com    # CentOS1 host from dCloud
+
+[cisco_centos2]
+CentOS2 ansible_host=root@centos2.dcloud.cisco.com    # CentOS2 host from dCloud
